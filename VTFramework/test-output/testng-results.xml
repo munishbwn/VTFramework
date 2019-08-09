@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="67533" started-at="2019-08-07T20:41:46Z" finished-at="2019-08-07T20:42:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test 793b7ea7-9126-419d-90e5-f0051c0c3ec5" duration-ms="67533" started-at="2019-08-07T20:41:46Z" finished-at="2019-08-07T20:42:53Z">
+      <class name="org.testing.Setting.Setting">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:org.testing.Setting.Setting@3ab39c39]" name="openbrowser" is-config="true" duration-ms="7899" started-at="2019-08-07T20:42:22Z" finished-at="2019-08-07T20:42:30Z">
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="marketing()[pri:0, instance:org.testing.Setting.Setting@3ab39c39]" name="marketing" duration-ms="22700" started-at="2019-08-07T20:42:30Z" finished-at="2019-08-07T20:42:53Z">
+        </test-method> <!-- marketing -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:org.testing.Setting.Setting@3ab39c39]" name="browserclose" is-config="true" duration-ms="541" started-at="2019-08-07T20:42:53Z" finished-at="2019-08-07T20:42:53Z">
+        </test-method> <!-- browserclose -->
+      </class> <!-- org.testing.Setting.Setting -->
+      <class name="org.testing.Testscript.TC1">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:org.testing.Testscript.TC1@2b80d80f]" name="openbrowser" is-config="true" duration-ms="10781" started-at="2019-08-07T20:41:46Z" finished-at="2019-08-07T20:41:57Z">
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="marketing()[pri:0, instance:org.testing.Testscript.TC1@2b80d80f]" name="marketing" duration-ms="24936" started-at="2019-08-07T20:41:57Z" finished-at="2019-08-07T20:42:22Z">
+        </test-method> <!-- marketing -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:org.testing.Testscript.TC1@2b80d80f]" name="browserclose" is-config="true" duration-ms="624" started-at="2019-08-07T20:42:22Z" finished-at="2019-08-07T20:42:22Z">
+        </test-method> <!-- browserclose -->
+      </class> <!-- org.testing.Testscript.TC1 -->
+    </test> <!-- Command line test 793b7ea7-9126-419d-90e5-f0051c0c3ec5 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

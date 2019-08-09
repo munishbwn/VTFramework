@@ -20,6 +20,7 @@ public class Setting extends Base {
 		driver.findElement(By.linkText(pr.getProperty("markting"))).click();
 				
 		System.out.println("Munish Setting class done");
+		System.out.println("Githup chnages");
 		
 			
 	}
